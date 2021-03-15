@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-#### Geek (Work-in-progress)
+#### Geek here! (Work-in-progress)
 
 ![Praneeth Karnena's github stats](https://github-readme-stats.vercel.app/api?username=PraneethKarnena&show_icons=true&hide_border=true)
